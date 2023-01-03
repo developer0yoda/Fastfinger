@@ -96,4 +96,4 @@ Bu kod, cursed kütüphanesini kullanarak terminal penceresinde bir oyun oluştu
 
 ----
 
-
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
