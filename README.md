@@ -93,6 +93,7 @@ Bu kod, cursed kütüphanesini kullanarak terminal penceresinde bir oyun oluştu
 
 
 <br />
+
 ----
 
 
